@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mitesh2427/LeetCode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/Mitesh2427/LeetCode/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/Mitesh2427/LeetCode/tree/master/0204-count-primes) |
+| [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Mitesh2427/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Mitesh2427/LeetCode/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Mitesh2427/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mitesh2427/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Mitesh2427/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Mitesh2427/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
