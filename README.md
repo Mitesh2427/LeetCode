@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mitesh2427/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mitesh2427/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Mitesh2427/LeetCode/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/Mitesh2427/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mitesh2427/LeetCode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Mitesh2427/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Mitesh2427/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mitesh2427/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mitesh2427/LeetCode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Mitesh2427/LeetCode/tree/master/0049-group-anagrams) |
 | [0649-dota2-senate](https://github.com/Mitesh2427/LeetCode/tree/master/0649-dota2-senate) |
 ## Stack
 |  |
@@ -101,5 +104,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Mitesh2427/LeetCode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
