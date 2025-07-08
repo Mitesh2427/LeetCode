@@ -27,6 +27,7 @@ All LeetCode Questions I have solved!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mitesh2427/LeetCode/tree/master/0204-count-primes) |
+| [1013-fibonacci-number](https://github.com/Mitesh2427/LeetCode/tree/master/1013-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -53,6 +54,7 @@ All LeetCode Questions I have solved!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mitesh2427/LeetCode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Mitesh2427/LeetCode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -129,4 +131,12 @@ All LeetCode Questions I have solved!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Mitesh2427/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mitesh2427/LeetCode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Mitesh2427/LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
