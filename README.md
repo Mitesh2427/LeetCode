@@ -11,6 +11,7 @@ All LeetCode Questions I have solved!
 | [0054-spiral-matrix](https://github.com/Mitesh2427/LeetCode/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/Mitesh2427/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Mitesh2427/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Mitesh2427/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Mitesh2427/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Hash Table
@@ -139,4 +140,8 @@ All LeetCode Questions I have solved!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Mitesh2427/LeetCode/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Mitesh2427/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
