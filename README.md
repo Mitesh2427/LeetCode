@@ -7,6 +7,7 @@ All LeetCode Questions I have solved!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mitesh2427/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Mitesh2427/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mitesh2427/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Mitesh2427/LeetCode/tree/master/0054-spiral-matrix) |
 | [0204-count-primes](https://github.com/Mitesh2427/LeetCode/tree/master/0204-count-primes) |
@@ -18,6 +19,7 @@ All LeetCode Questions I have solved!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Mitesh2427/LeetCode/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/Mitesh2427/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mitesh2427/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Mitesh2427/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mitesh2427/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -40,6 +42,7 @@ All LeetCode Questions I have solved!
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Mitesh2427/LeetCode/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Mitesh2427/LeetCode/tree/master/0054-spiral-matrix) |
 ## Simulation
 |  |
