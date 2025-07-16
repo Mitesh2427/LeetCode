@@ -76,6 +76,7 @@ All LeetCode Questions I have solved!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mitesh2427/LeetCode/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Mitesh2427/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Mitesh2427/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Mitesh2427/LeetCode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -85,6 +86,7 @@ All LeetCode Questions I have solved!
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Mitesh2427/LeetCode/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Mitesh2427/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
 |  |
