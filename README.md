@@ -10,6 +10,7 @@ All LeetCode Questions I have solved!
 | [0036-valid-sudoku](https://github.com/Mitesh2427/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mitesh2427/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Mitesh2427/LeetCode/tree/master/0054-spiral-matrix) |
+| [0128-longest-consecutive-sequence](https://github.com/Mitesh2427/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/Mitesh2427/LeetCode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mitesh2427/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -21,6 +22,7 @@ All LeetCode Questions I have solved!
 | [0001-two-sum](https://github.com/Mitesh2427/LeetCode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Mitesh2427/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Mitesh2427/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Mitesh2427/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Mitesh2427/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Mitesh2427/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Mitesh2427/LeetCode/tree/master/0217-contains-duplicate) |
@@ -147,4 +149,8 @@ All LeetCode Questions I have solved!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Mitesh2427/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Mitesh2427/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
